@@ -1,5 +1,5 @@
 RENCANA USAHA
 - Buka toko sepatu vans
 - Buka toko sepatu olahrga
-contoh sepatu : nike, reebok, adidas
+contoh sepatu : hoka, brooks, asics
 - Buka toko thrift shop
